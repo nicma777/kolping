@@ -1,0 +1,24 @@
+.sredina{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerBtn {
+    text-align: center;
+    vertical-align: middle;
+}
+
+td {
+    white-space: nowrap;
+}
+
+/* body{
+    background-image: url(/slika1.jpg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url(/slika1.jpg);
+    background-attachment:fixed;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+}  */
+
